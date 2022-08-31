@@ -1,0 +1,11 @@
+.card {
+    border: 2px solid black;
+    padding: 5px;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .content p {
+    margin: 0px;
+  }
